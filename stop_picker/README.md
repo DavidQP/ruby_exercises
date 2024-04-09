@@ -1,0 +1,1 @@
+# Stop picker exercise made with ruby
